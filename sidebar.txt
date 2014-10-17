@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ksz:home|Door43 (ksz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ksz|d43-ksz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ksz/archive/master.zip|d43-ksz.zip]]
+
+**Recent Changes**
+{{changes>ns = ksz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ksz|Ethnologue data]]
+
