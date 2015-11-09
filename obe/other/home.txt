@@ -1,0 +1,9 @@
+====== OBE Other Terms ======
+
+~~NOCACHE~~
+
+Link to [[:ksz:obe:kt:home|OBE Key Terms]] \\ 
+Link to [[:ksz:obe:home|All OBE Terms]]
+
+
+<nspages ksz:obe:other -title -exclude:home -textPages="List of other terms:">

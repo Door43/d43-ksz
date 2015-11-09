@@ -1,0 +1,19 @@
+====== precious ======
+
+===== Facts: =====
+
+Text
+  * bullet
+  * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>precious&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft dan11 ktlink}}
