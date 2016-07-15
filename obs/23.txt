@@ -1,10 +1,9 @@
-====== 23. The Birth of Jesus ======
+====== 23. ईसु राः जनम-करम ======
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg}}
 
-
-Mary was engaged to a righteous man named Joseph. When he heard that Mary was pregnant, he knew it was not his baby. He did not want to shame Mary, so he planned to quietly divorce her. Before he could do that, an angel came and spoke to him in a dream.
+मरियोम राः मला-मठी उसुफ सुदा होया होया तना, उसुफ धरमी होड़ दोहो एना। जब उसुफ पपाड़ीयन कि मरियोम दोंहरी देंह रेया अवुर हेंय लाज रे इदानिया बले इञाँअय न लगे मेनते, उसुफ बदनामिय लगड मेनेय चहोः दोहो एनु, हेंय कलेकल ते बगीवय लगाडिय पसींद तडा। नअँय गुनूनगुनोवे तोलोग प्रभु रेनिय सरगदूत सपना रेय ञेंलवाडिया। 
 
 
 
@@ -12,15 +11,13 @@ Mary was engaged to a righteous man named Joseph. When he heard that Mary was pr
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg}}
 
 
-The angel said, “Joseph, do not be afraid to take Mary as your wife. The baby that is in her is from the Holy Spirit. She will give birth to a son. Name him Jesus (which means, ‘Yahweh saves’), because he will save the people from their sins.”
-
+सरगदूत हेंय थरेय कहनी तेडा, “ए उसुफ! अम ईंगापे  मरियोम नारे अगेय लगड अलोम बो-रू, कहेकि हेंय लाय रे इदानिय हेंय शुद्ध बिरवा हनवरिया। हेंय कोड़ा चोंडीजिय हँबुडा हेंय अम ईसु मेनतेम ञुमूयू, कहेकि हेंय अनेज रेनकू होड़कू हेंकू राः पाप वरिय उबर कुआ।” 
 
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg}}
 
-
-So Joseph married Mary and took her home as his wife, but he did not sleep with her until she had given birth.
+हेना वरि उसुफ मरियोमिय बियाह तेडा अवुर कोड़ीहोन तू अनेज एचे रेय अगतेडिया, अवुर चोंडीज अनायीनिय हँबुडिय मेन दिन हेंय सुदा मेनेय गितीज गना। 
 
 
 
@@ -28,7 +25,7 @@ So Joseph married Mary and took her home as his wife, but he did not sleep with 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg}}
 
 
-When the time was near for Mary to give birth, the Roman government told everyone to go for a census to the town where their ancestors had lived. Joseph and Mary had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
+जब मरियोम राः दिन पुरती होयाएन रे, रोमी सरकार कहनी तेडा कि सींड़कू ञुमू एर लिखो लगड अपन-अपन सहर कू चलोऊ मेनते। तहाँ उसुफ अवुर मरियोम हो नसरेत सहर हनते कींञ चलो एना, कहेकि उसुफ दाऊद खुटी-खदधान रेनिय दोहो एना, गलील जिला राः नसरेत सहर वरि अहूदिया जिला दाऊद राः सहर बयतुलम कींञ सेनेना।  
 
 
 
@@ -36,7 +33,7 @@ When the time was near for Mary to give birth, the Roman government told everyon
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg}}
 
 
-When they arrived in Bethlehem, there was no place to stay. The only room they could find was a place where animals stayed. The baby was born there and his mother laid him in a feeding trough, since they did not have a bed for him. They named him Jesus.
+बयतुलम कींञ सेनेन दो, हेना दोहोन लगड जघा मेने दोहो एना। माल-मोसी दोहोन हेना जघा भरकींञ ञँमतेडा। माल-मोसी कू चरा कू ओवा कुआ, हेनारे हेंय कींञ हँबुड तेडिया। अवुर हेंय बले ईसु मेनते कींञ ञुमू तेडिया। 
 
 
 
@@ -44,7 +41,7 @@ When they arrived in Bethlehem, there was no place to stay. The only room they c
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg}}
 
 
-That night, there were some shepherds in a nearby field guarding their flocks. Suddenly, a shining angel appeared to them, and they were terrified. The angel said, “Do not be afraid, because I have some good news for you. The Messiah, the Master, has been born in Bethlehem!”
+अवुर हेना देस रे अखीर भेड़ी चरवाह कू दोहो एना, अवुर हेंकू ञींद डांड ते अपन-अपन भेड़ी कुकू पहरा दोहो एनु। अचा कते चमकोः घनी मियाँ टंग सरगदूत कू ञेंल ञँमतेडा, अवुर हेंकू अखीर कू बोरो यन दोहो एनु। तहाँ सरगदूत हेंकू थरेय कहनी तेडा, “अलो पे बो-रू; अँजोम पे, इंञ अपे बड़े खुसी राः खभेरिंञ लाय वपे तना, तेसींञ बयतुलम सहर रे अले लगड मियाँहोड़ उऊबरय जनम केना, ने-नी मसीह परभु हवे।” 
 
 
 
@@ -52,34 +49,30 @@ That night, there were some shepherds in a nearby field guarding their flocks. S
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-07.jpg}}
 
 
-“Go search for the baby, and you will find him wrapped in pieces of cloth and lying in a feeding trough.” Suddenly, the skies were filled with angels praising God, saying, “Glory to God in heaven and peace on earth to the people he favors!”
-
+“अवुर अपे हेंय बले हाःतेपे ञँमेया कपड़ा भेनटो केडिय ते चरनी रे कू मँडो केडिया।” तहाँ एकसेक सरगदूत कू भगवान राः स्तुति तोलोग अवुर हाःतेकू कहनिय तोलोग कू ञेंलवड कुआ, “पिरथी रे भगवान राः स्तुति होयाऊ, धरती रे जे होड़कुय मँजुर वआ, हेंकू जिवीत कुय असतीरा।” 
 
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg}}
 
 
-The shepherds soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them. They were very excited. The shepherds returned to the fields where their sheep were, praising God for all they had heard and seen.
-
+तहाँ चरवाह कू बयतुलम कू सेनेना। हेना कू सेनेन तहाँ  जेयसे सरगदूत हेंकू थरेय लाय तडा, हेनेन घयते मरियोम अवुर उसुफ अवुर हेंय बले कू ञेंल ञँम तेडा। हेंकू अखीर खुस कू दोहो एना। अवुर मरियोम हो अखीर खूसिय दोहो एना। अवुर चरवाह कू जेयसे कू अँजोम तडा, हेना सगोर कू ञेंल-अँजोम केते भगवान राः महिमा अवुर स्तुति करते-करते तेकू मिड़ाः एना।  
 
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg}}
 
-
-Sometime later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new king of the Jews had been born. So, they traveled a great distance to see this king. They came to Bethlehem and found the house where Jesus and his parents were staying.
+कुछ समय राः बाद रे जोतिसी कू, पूरुब हँडे मियाँ टंग ईपिल की ञेंलतेडा। नेय ञेंलकेते हेंकू पपाड़ियन कि अहूदी कुरेनिय नवाँअय राजा जनम केना मेनते। अवुर हेंकू हेंय राजा ञेंल मेनते दो अखीर सँगींञ कू सेनतेडा। अवुर हेंकू बयतुलम कू तयाः तेडा। अवुर हेनारे हेंकू ईसु अवुर इंगत-अपत दोहो एना, हेना ओड़ाः कू सेनेना। 
 
 
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg}}
 
-
-When the wise men saw Jesus with his mother, they bowed down and worshiped him. They gave Jesus expensive gifts. Then they returned home.
-
+हेंकू हेना ओड़ाः कू सेनेन तहाँ, हेंय बले इंगत सुदा कू ञेंलवाडिया, अवुर हेंकू अहत कुराः बल ते हुरू केनते कू जोहार वडिया। हेंकू अखीर किमती-किमतीआ दान-दछना कू ओवाडियू। तहाँ हेंकू ओड़ाः हनते कू मिड़ाः मेजियानू। 
 
 
-//A Bible story from: Matthew 1; Luke 2//
+
+//नआँ कतह बाईबल वरिआ : मत्ती 1; लूका 2 /बाइबिल की कहानी में : मत्ती 1; लूका 2//
 
 
